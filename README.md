@@ -59,7 +59,7 @@ Nikolaj Schumacher is the author of company-files.el.
 
 ## License
 The files in this project are licensed under the GNU General Public License,
-version 3 or (at your option) any later version.
+version 3 or (at your option) any later version. See LICENSE.
 
 
 ## Contributing
